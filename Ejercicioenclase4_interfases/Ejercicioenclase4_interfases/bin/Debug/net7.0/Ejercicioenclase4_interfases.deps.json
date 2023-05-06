@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ejercicioenclase4_interfases/1.0.0": {
+        "runtime": {
+          "Ejercicioenclase4_interfases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicioenclase4_interfases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
